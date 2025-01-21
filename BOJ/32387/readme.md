@@ -1,4 +1,4 @@
-# 32387번 : 충전하기
+# 32387번: 충전하기
 
 문제: [https://www.acmicpc.net/problem/32387](https://www.acmicpc.net/problem/32387)
 
