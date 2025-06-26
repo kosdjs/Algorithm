@@ -1,5 +1,5 @@
 문제|블로그 링크
-::|::
+:-:|:-:
 [Z](https://www.acmicpc.net/problem/1074)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-1074%EB%B2%88-Z)
 [단어 수학](https://www.acmicpc.net/problem/1339)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-1339%EB%B2%88-%EB%8B%A8%EC%96%B4-%EC%88%98%ED%95%99)
 [LCS](https://www.acmicpc.net/problem/9251)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-9251%EB%B2%88-LCS)
