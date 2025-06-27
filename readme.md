@@ -26,3 +26,4 @@
 [여행 가자](https://www.acmicpc.net/problem/1976)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-1976%EB%B2%88-%EC%97%AC%ED%96%89-%EA%B0%80%EC%9E%90)
 [거짓말](https://www.acmicpc.net/problem/1043)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-1043%EB%B2%88-%EA%B1%B0%EC%A7%93%EB%A7%90)
 [사이클 게임](https://www.acmicpc.net/problem/20040)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-20040%EB%B2%88-%EC%82%AC%EC%9D%B4%ED%81%B4-%EA%B2%8C%EC%9E%84)
+[트리](https://www.acmicpc.net/problem/4803)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-4803%EB%B2%88-%ED%8A%B8%EB%A6%AC)
