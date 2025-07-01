@@ -30,3 +30,4 @@
 [중량제한](https://www.acmicpc.net/problem/1939)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-1939%EB%B2%88-%EC%A4%91%EB%9F%89%EC%A0%9C%ED%95%9C)
 [피리 부는 사나이](https://www.acmicpc.net/problem/16724)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-16724%EB%B2%88-%ED%94%BC%EB%A6%AC-%EB%B6%80%EB%8A%94-%EC%82%AC%EB%82%98%EC%9D%B4)
 [최소 스패닝 트리](https://www.acmicpc.net/problem/1197)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-1197%EB%B2%88-%EC%B5%9C%EC%86%8C-%EC%8A%A4%ED%8C%A8%EB%8B%9D-%ED%8A%B8%EB%A6%AC)
+[네트워크 연결](https://www.acmicpc.net/problem/1922)|[풀이](https://velog.io/write?id=fb9548f5-127e-4cc4-86fb-537a1bf8db48)
