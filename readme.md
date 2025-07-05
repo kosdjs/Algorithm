@@ -34,3 +34,4 @@
 [도시 분할 계획](https://www.acmicpc.net/problem/1647)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-1647%EB%B2%88-%EB%8F%84%EC%8B%9C-%EB%B6%84%ED%95%A0-%EA%B3%84%ED%9A%8D)
 [별자리 만들기](https://www.acmicpc.net/problem/4386)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-4386%EB%B2%88-%EB%B3%84%EC%9E%90%EB%A6%AC-%EB%A7%8C%EB%93%A4%EA%B8%B0)
 [전력난](https://www.acmicpc.net/problem/6497)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-6497%EB%B2%88-%EC%A0%84%EB%A0%A5%EB%82%9C)
+[우주신과의 교감](https://www.acmicpc.net/problem/1774)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-1774%EB%B2%88-%EC%9A%B0%EC%A3%BC%EC%8B%A0%EA%B3%BC%EC%9D%98-%EA%B5%90%EA%B0%90)
