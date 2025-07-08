@@ -37,3 +37,4 @@
 [우주신과의 교감](https://www.acmicpc.net/problem/1774)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-1774%EB%B2%88-%EC%9A%B0%EC%A3%BC%EC%8B%A0%EA%B3%BC%EC%9D%98-%EA%B5%90%EA%B0%90)
 [행성 연결](https://www.acmicpc.net/problem/16398)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-16398%EB%B2%88-%ED%96%89%EC%84%B1-%EC%97%B0%EA%B2%B0)
 [전깃줄](https://www.acmicpc.net/problem/2565)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-2565%EB%B2%88-%EC%A0%84%EA%B9%83%EC%A4%84)
+[합분해](https://www.acmicpc.net/problem/2225)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-2225%EB%B2%88-%ED%95%A9%EB%B6%84%ED%95%B4)
