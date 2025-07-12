@@ -41,3 +41,4 @@
 [연속합 2](https://www.acmicpc.net/problem/13398)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-13398%EB%B2%88-%EC%97%B0%EC%86%8D%ED%95%A9-2)
 [내려가기](https://www.acmicpc.net/problem/2096)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-2096%EB%B2%88-%EB%82%B4%EB%A0%A4%EA%B0%80%EA%B8%B0)
 [퇴사 2](https://www.acmicpc.net/problem/15486)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-15486%EB%B2%88-%ED%87%B4%EC%82%AC-2)
+[트리와 쿼리](https://www.acmicpc.net/problem/15681)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-15681%EB%B2%88-%ED%8A%B8%EB%A6%AC%EC%99%80-%EC%BF%BC%EB%A6%AC)
