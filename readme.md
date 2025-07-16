@@ -45,3 +45,4 @@
 [공통 부분 문자열](https://www.acmicpc.net/problem/5582)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-5582%EB%B2%88-%EA%B3%B5%ED%86%B5-%EB%B6%80%EB%B6%84-%EB%AC%B8%EC%9E%90%EC%97%B4)
 [1, 2, 3 더하기 4](https://www.acmicpc.net/problem/15989)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-15989%EB%B2%88-1-2-3-%EB%8D%94%ED%95%98%EA%B8%B0-4)
 [1학년](https://www.acmicpc.net/problem/5557)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-5557%EB%B2%88-1%ED%95%99%EB%85%84)
+[무한 수열](https://www.acmicpc.net/problem/1351)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-1351%EB%B2%88-%EB%AC%B4%ED%95%9C-%EC%88%98%EC%97%B4)
