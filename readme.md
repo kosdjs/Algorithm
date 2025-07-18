@@ -47,3 +47,4 @@
 [1학년](https://www.acmicpc.net/problem/5557)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-5557%EB%B2%88-1%ED%95%99%EB%85%84)
 [무한 수열](https://www.acmicpc.net/problem/1351)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-1351%EB%B2%88-%EB%AC%B4%ED%95%9C-%EC%88%98%EC%97%B4)
 [알약](https://www.acmicpc.net/problem/4811)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-4811%EB%B2%88-%EC%95%8C%EC%95%BD)
+[크리보드](https://www.acmicpc.net/problem/11058)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-11058%EB%B2%88-%ED%81%AC%EB%A6%AC%EB%B3%B4%EB%93%9C)
