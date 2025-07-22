@@ -49,3 +49,4 @@
 [알약](https://www.acmicpc.net/problem/4811)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-4811%EB%B2%88-%EC%95%8C%EC%95%BD)
 [크리보드](https://www.acmicpc.net/problem/11058)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-11058%EB%B2%88-%ED%81%AC%EB%A6%AC%EB%B3%B4%EB%93%9C)
 [카드게임](https://www.acmicpc.net/problem/10835)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-10835%EB%B2%88-%EC%B9%B4%EB%93%9C%EA%B2%8C%EC%9E%84)
+[벽장문의 이동](https://www.acmicpc.net/problem/2666)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-2666%EB%B2%88-%EB%B2%BD%EC%9E%A5%EB%AC%B8%EC%9D%98-%EC%9D%B4%EB%8F%99)
