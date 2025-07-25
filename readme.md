@@ -52,3 +52,4 @@
 [벽장문의 이동](https://www.acmicpc.net/problem/2666)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-2666%EB%B2%88-%EB%B2%BD%EC%9E%A5%EB%AC%B8%EC%9D%98-%EC%9D%B4%EB%8F%99)
 [조 짜기](https://www.acmicpc.net/problem/2229)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-2229%EB%B2%88-%EC%A1%B0-%EC%A7%9C%EA%B8%B0)
 [숫자카드](https://www.acmicpc.net/problem/2591)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-2591%EB%B2%88-%EC%88%AB%EC%9E%90%EC%B9%B4%EB%93%9C)
+[수강 과목](https://www.acmicpc.net/problem/17845)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-17845%EB%B2%88-%EC%88%98%EA%B0%95-%EA%B3%BC%EB%AA%A9)
