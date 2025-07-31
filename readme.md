@@ -57,3 +57,4 @@
 [작업](https://www.acmicpc.net/problem/2056)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-2056%EB%B2%88-%EC%9E%91%EC%97%85)
 [수행 시간](https://www.acmicpc.net/problem/16169)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-16169%EB%B2%88-%EC%88%98%ED%96%89-%EC%8B%9C%EA%B0%84)
 [왕위 계승](https://www.acmicpc.net/problem/5021)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-5021%EB%B2%88-%EC%99%95%EC%9C%84-%EA%B3%84%EC%8A%B9)
+[게임 개발](https://www.acmicpc.net/problem/1516)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-1516%EB%B2%88-%EA%B2%8C%EC%9E%84-%EA%B0%9C%EB%B0%9C)
