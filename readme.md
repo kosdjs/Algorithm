@@ -59,3 +59,5 @@
 [왕위 계승](https://www.acmicpc.net/problem/5021)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-5021%EB%B2%88-%EC%99%95%EC%9C%84-%EA%B3%84%EC%8A%B9)
 [게임 개발](https://www.acmicpc.net/problem/1516)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-1516%EB%B2%88-%EA%B2%8C%EC%9E%84-%EA%B0%9C%EB%B0%9C)
 [음악프로그램](https://www.acmicpc.net/problem/2623)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-2623%EB%B2%88-%EC%9D%8C%EC%95%85%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8)
+[ACM Craft](https://www.acmicpc.net/problem/1005)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-1005%EB%B2%88-ACM-Craft)
+[숨바꼭질 3](https://www.acmicpc.net/problem/13549)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-13549%EB%B2%88-%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%88-3)
