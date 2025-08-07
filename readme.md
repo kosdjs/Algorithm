@@ -63,3 +63,4 @@
 [숨바꼭질 3](https://www.acmicpc.net/problem/13549)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-13549%EB%B2%88-%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%88-3)
 [택배 배송](https://www.acmicpc.net/problem/5972)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-5972%EB%B2%88-%ED%83%9D%EB%B0%B0-%EB%B0%B0%EC%86%A1)
 [백도어](https://www.acmicpc.net/problem/17396)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-17396%EB%B2%88-%EB%B0%B1%EB%8F%84%EC%96%B4)
+[간선 이어가기 2](https://www.acmicpc.net/problem/14284)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-14284%EB%B2%88-%EA%B0%84%EC%84%A0-%EC%9D%B4%EC%96%B4%EA%B0%80%EA%B8%B0-2)
