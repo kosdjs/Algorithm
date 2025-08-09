@@ -65,3 +65,4 @@
 [백도어](https://www.acmicpc.net/problem/17396)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-17396%EB%B2%88-%EB%B0%B1%EB%8F%84%EC%96%B4)
 [간선 이어가기 2](https://www.acmicpc.net/problem/14284)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-14284%EB%B2%88-%EA%B0%84%EC%84%A0-%EC%9D%B4%EC%96%B4%EA%B0%80%EA%B8%B0-2)
 [게임](https://www.acmicpc.net/problem/1584)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-1584%EB%B2%88-%EA%B2%8C%EC%9E%84)
+[배열 탈출](https://www.acmicpc.net/problem/11909)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-11909%EB%B2%88-%EB%B0%B0%EC%97%B4-%ED%83%88%EC%B6%9C)
