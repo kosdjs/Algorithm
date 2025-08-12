@@ -67,3 +67,4 @@
 [게임](https://www.acmicpc.net/problem/1584)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-1584%EB%B2%88-%EA%B2%8C%EC%9E%84)
 [배열 탈출](https://www.acmicpc.net/problem/11909)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-11909%EB%B2%88-%EB%B0%B0%EC%97%B4-%ED%83%88%EC%B6%9C)
 [회의실 배정](https://www.acmicpc.net/problem/1931)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-1931%EB%B2%88-%ED%9A%8C%EC%9D%98%EC%8B%A4-%EB%B0%B0%EC%A0%95)
+[주사위](https://www.acmicpc.net/problem/1041)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-1041%EB%B2%88-%EC%A3%BC%EC%82%AC%EC%9C%84)
