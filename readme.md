@@ -72,3 +72,4 @@
 [행복 유치원](https://www.acmicpc.net/problem/13164)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-13164%EB%B2%88-%ED%96%89%EB%B3%B5-%EC%9C%A0%EC%B9%98%EC%9B%90)
 [꿀 따기](https://www.acmicpc.net/problem/21758)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-21758%EB%B2%88-%EA%BF%80-%EB%94%B0%EA%B8%B0)
 [흙길 보수하기](https://www.acmicpc.net/problem/1911)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-1911%EB%B2%88-%ED%9D%99%EA%B8%B8-%EB%B3%B4%EC%88%98%ED%95%98%EA%B8%B0)
+[최소 회의실 개수](https://www.acmicpc.net/problem/19598)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-19598%EB%B2%88-%EC%B5%9C%EC%86%8C-%ED%9A%8C%EC%9D%98%EC%8B%A4-%EA%B0%9C%EC%88%98)
