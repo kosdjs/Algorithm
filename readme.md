@@ -75,3 +75,4 @@
 [최소 회의실 개수](https://www.acmicpc.net/problem/19598)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-19598%EB%B2%88-%EC%B5%9C%EC%86%8C-%ED%9A%8C%EC%9D%98%EC%8B%A4-%EA%B0%9C%EC%88%98)
 [풍선 맞추기](https://www.acmicpc.net/problem/11509)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-11509%EB%B2%88-%ED%92%8D%EC%84%A0-%EB%A7%9E%EC%B6%94%EA%B8%B0)
 [사과나무](https://www.acmicpc.net/problem/19539)[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-19539%EB%B2%88-%EC%82%AC%EA%B3%BC%EB%82%98%EB%AC%B4)
+[시간 관리](https://www.acmicpc.net/problem/1263)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-1263%EB%B2%88-%EC%8B%9C%EA%B0%84-%EA%B4%80%EB%A6%AC)
