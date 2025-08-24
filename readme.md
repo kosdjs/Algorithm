@@ -78,3 +78,4 @@
 [시간 관리](https://www.acmicpc.net/problem/1263)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-1263%EB%B2%88-%EC%8B%9C%EA%B0%84-%EA%B4%80%EB%A6%AC)
 [달력](https://www.acmicpc.net/problem/20207)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-20207%EB%B2%88-%EB%8B%AC%EB%A0%A5)
 [두 배 더하기](https://www.acmicpc.net/problem/12931)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-12931%EB%B2%88-%EB%91%90-%EB%B0%B0-%EB%8D%94%ED%95%98%EA%B8%B0)
+[피자 오븐](https://www.acmicpc.net/problem/19940)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-19940%EB%B2%88-%ED%94%BC%EC%9E%90-%EC%98%A4%EB%B8%90)
