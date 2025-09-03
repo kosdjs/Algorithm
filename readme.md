@@ -86,3 +86,4 @@
 [현수막 걸기](https://www.acmicpc.net/problem/30459)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-30459%EB%B2%88-%ED%98%84%EC%88%98%EB%A7%89-%EA%B1%B8%EA%B8%B0)
 [작은 벌점](https://www.acmicpc.net/problem/16498)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-16498%EB%B2%88-%EC%9E%91%EC%9D%80-%EB%B2%8C%EC%A0%90)
 [누가 이길까](https://www.acmicpc.net/problem/28449)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-28449%EB%B2%88-%EB%88%84%EA%B0%80-%EC%9D%B4%EA%B8%B8%EA%B9%8C)
+[숫자탑과 쿼리](https://www.acmicpc.net/problem/28127)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-28127%EB%B2%88-%EC%88%AB%EC%9E%90%ED%83%91%EA%B3%BC-%EC%BF%BC%EB%A6%AC)
