@@ -74,7 +74,7 @@
 [흙길 보수하기](https://www.acmicpc.net/problem/1911)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-1911%EB%B2%88-%ED%9D%99%EA%B8%B8-%EB%B3%B4%EC%88%98%ED%95%98%EA%B8%B0)
 [최소 회의실 개수](https://www.acmicpc.net/problem/19598)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-19598%EB%B2%88-%EC%B5%9C%EC%86%8C-%ED%9A%8C%EC%9D%98%EC%8B%A4-%EA%B0%9C%EC%88%98)
 [풍선 맞추기](https://www.acmicpc.net/problem/11509)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-11509%EB%B2%88-%ED%92%8D%EC%84%A0-%EB%A7%9E%EC%B6%94%EA%B8%B0)
-[사과나무](https://www.acmicpc.net/problem/19539)[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-19539%EB%B2%88-%EC%82%AC%EA%B3%BC%EB%82%98%EB%AC%B4)
+[사과나무](https://www.acmicpc.net/problem/19539)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-19539%EB%B2%88-%EC%82%AC%EA%B3%BC%EB%82%98%EB%AC%B4)
 [시간 관리](https://www.acmicpc.net/problem/1263)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-1263%EB%B2%88-%EC%8B%9C%EA%B0%84-%EA%B4%80%EB%A6%AC)
 [달력](https://www.acmicpc.net/problem/20207)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-20207%EB%B2%88-%EB%8B%AC%EB%A0%A5)
 [두 배 더하기](https://www.acmicpc.net/problem/12931)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-12931%EB%B2%88-%EB%91%90-%EB%B0%B0-%EB%8D%94%ED%95%98%EA%B8%B0)
@@ -87,3 +87,4 @@
 [작은 벌점](https://www.acmicpc.net/problem/16498)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-16498%EB%B2%88-%EC%9E%91%EC%9D%80-%EB%B2%8C%EC%A0%90)
 [누가 이길까](https://www.acmicpc.net/problem/28449)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-28449%EB%B2%88-%EB%88%84%EA%B0%80-%EC%9D%B4%EA%B8%B8%EA%B9%8C)
 [숫자탑과 쿼리](https://www.acmicpc.net/problem/28127)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-28127%EB%B2%88-%EC%88%AB%EC%9E%90%ED%83%91%EA%B3%BC-%EC%BF%BC%EB%A6%AC)
+[대회 개최](https://www.acmicpc.net/problem/12915)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-12915%EB%B2%88-%EB%8C%80%ED%9A%8C-%EA%B0%9C%EC%B5%9C)
