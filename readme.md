@@ -88,3 +88,4 @@
 [누가 이길까](https://www.acmicpc.net/problem/28449)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-28449%EB%B2%88-%EB%88%84%EA%B0%80-%EC%9D%B4%EA%B8%B8%EA%B9%8C)
 [숫자탑과 쿼리](https://www.acmicpc.net/problem/28127)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-28127%EB%B2%88-%EC%88%AB%EC%9E%90%ED%83%91%EA%B3%BC-%EC%BF%BC%EB%A6%AC)
 [대회 개최](https://www.acmicpc.net/problem/12915)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-12915%EB%B2%88-%EB%8C%80%ED%9A%8C-%EA%B0%9C%EC%B5%9C)
+[수열과 헌팅](https://www.acmicpc.net/problem/20495)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-20495%EB%B2%88-%EC%88%98%EC%97%B4%EA%B3%BC-%ED%97%8C%ED%8C%85)
