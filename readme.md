@@ -90,3 +90,4 @@
 [대회 개최](https://www.acmicpc.net/problem/12915)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-12915%EB%B2%88-%EB%8C%80%ED%9A%8C-%EA%B0%9C%EC%B5%9C)
 [수열과 헌팅](https://www.acmicpc.net/problem/20495)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-20495%EB%B2%88-%EC%88%98%EC%97%B4%EA%B3%BC-%ED%97%8C%ED%8C%85)
 [급상승](https://www.acmicpc.net/problem/23978)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-23978%EB%B2%88-%EA%B8%89%EC%83%81%EC%8A%B9)
+[시간을 돌리고 싶어](https://www.acmicpc.net/problem/32347)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-32347%EB%B2%88-%EC%8B%9C%EA%B0%84%EC%9D%84-%EB%8F%8C%EB%A6%AC%EA%B3%A0-%EC%8B%B6%EC%96%B4)
