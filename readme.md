@@ -92,3 +92,4 @@
 [급상승](https://www.acmicpc.net/problem/23978)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-23978%EB%B2%88-%EA%B8%89%EC%83%81%EC%8A%B9)
 [시간을 돌리고 싶어](https://www.acmicpc.net/problem/32347)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-32347%EB%B2%88-%EC%8B%9C%EA%B0%84%EC%9D%84-%EB%8F%8C%EB%A6%AC%EA%B3%A0-%EC%8B%B6%EC%96%B4)
 [근성아 일하자](https://www.acmicpc.net/problem/32358)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-32358%EB%B2%88-%EA%B7%BC%EC%84%B1%EC%95%84-%EC%9D%BC%ED%95%98%EC%9E%90)
+[블랙 프라이데이](https://www.acmicpc.net/problem/18114)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-18114%EB%B2%88-%EB%B8%94%EB%9E%99-%ED%94%84%EB%9D%BC%EC%9D%B4%EB%8D%B0%EC%9D%B4)
