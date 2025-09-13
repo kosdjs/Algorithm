@@ -94,3 +94,4 @@
 [근성아 일하자](https://www.acmicpc.net/problem/32358)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-32358%EB%B2%88-%EA%B7%BC%EC%84%B1%EC%95%84-%EC%9D%BC%ED%95%98%EC%9E%90)
 [블랙 프라이데이](https://www.acmicpc.net/problem/18114)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-18114%EB%B2%88-%EB%B8%94%EB%9E%99-%ED%94%84%EB%9D%BC%EC%9D%B4%EB%8D%B0%EC%9D%B4)
 [두 수의 합](https://www.acmicpc.net/problem/9024)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-9024%EB%B2%88-%EB%91%90-%EC%88%98%EC%9D%98-%ED%95%A9)
+[빨강~ 빨강~ 파랑! 파랑! 달콤한 솜사탕!](https://www.acmicpc.net/problem/28140)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-28140%EB%B2%88-%EB%B9%A8%EA%B0%95-%EB%B9%A8%EA%B0%95-%ED%8C%8C%EB%9E%91-%ED%8C%8C%EB%9E%91-%EB%8B%AC%EC%BD%A4%ED%95%9C-%EC%86%9C%EC%82%AC%ED%83%95)
