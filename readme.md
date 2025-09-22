@@ -102,3 +102,4 @@
 [경쟁적 전염](https://www.acmicpc.net/problem/18405)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-18405%EB%B2%88-%EA%B2%BD%EC%9F%81%EC%A0%81-%EC%A0%84%EC%97%BC)
 [배열 돌리기 3](https://www.acmicpc.net/problem/16935)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-16935%EB%B2%88-%EB%B0%B0%EC%97%B4-%EB%8F%8C%EB%A6%AC%EA%B8%B0-3)
 [0 만들기](https://www.acmicpc.net/problem/7490)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-7490%EB%B2%88-0-%EB%A7%8C%EB%93%A4%EA%B8%B0)
+[뱀과 사다리 게임](https://www.acmicpc.net/problem/16928)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-16928%EB%B2%88-%EB%B1%80%EA%B3%BC-%EC%82%AC%EB%8B%A4%EB%A6%AC-%EA%B2%8C%EC%9E%84)
