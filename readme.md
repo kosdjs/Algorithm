@@ -103,3 +103,4 @@
 [배열 돌리기 3](https://www.acmicpc.net/problem/16935)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-16935%EB%B2%88-%EB%B0%B0%EC%97%B4-%EB%8F%8C%EB%A6%AC%EA%B8%B0-3)
 [0 만들기](https://www.acmicpc.net/problem/7490)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-7490%EB%B2%88-0-%EB%A7%8C%EB%93%A4%EA%B8%B0)
 [뱀과 사다리 게임](https://www.acmicpc.net/problem/16928)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-16928%EB%B2%88-%EB%B1%80%EA%B3%BC-%EC%82%AC%EB%8B%A4%EB%A6%AC-%EA%B2%8C%EC%9E%84)
+[1로 만들기 2](https://www.acmicpc.net/problem/12852)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-12852%EB%B2%88-1%EB%A1%9C-%EB%A7%8C%EB%93%A4%EA%B8%B0-2)
