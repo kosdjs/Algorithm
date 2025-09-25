@@ -105,3 +105,4 @@
 [뱀과 사다리 게임](https://www.acmicpc.net/problem/16928)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-16928%EB%B2%88-%EB%B1%80%EA%B3%BC-%EC%82%AC%EB%8B%A4%EB%A6%AC-%EA%B2%8C%EC%9E%84)
 [1로 만들기 2](https://www.acmicpc.net/problem/12852)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-12852%EB%B2%88-1%EB%A1%9C-%EB%A7%8C%EB%93%A4%EA%B8%B0-2)
 [맥주 마시면서 걸어가기](https://www.acmicpc.net/problem/9205)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-9205%EB%B2%88-%EB%A7%A5%EC%A3%BC-%EB%A7%88%EC%8B%9C%EB%A9%B4%EC%84%9C-%EA%B1%B8%EC%96%B4%EA%B0%80%EA%B8%B0)
+[숫자고르기](https://www.acmicpc.net/problem/2668)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-2668%EB%B2%88-%EC%88%AB%EC%9E%90%EA%B3%A0%EB%A5%B4%EA%B8%B0)
