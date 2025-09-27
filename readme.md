@@ -107,3 +107,4 @@
 [맥주 마시면서 걸어가기](https://www.acmicpc.net/problem/9205)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-9205%EB%B2%88-%EB%A7%A5%EC%A3%BC-%EB%A7%88%EC%8B%9C%EB%A9%B4%EC%84%9C-%EA%B1%B8%EC%96%B4%EA%B0%80%EA%B8%B0)
 [숫자고르기](https://www.acmicpc.net/problem/2668)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-2668%EB%B2%88-%EC%88%AB%EC%9E%90%EA%B3%A0%EB%A5%B4%EA%B8%B0)
 [상범 빌딩](https://www.acmicpc.net/problem/6593)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-6593%EB%B2%88-%EC%83%81%EB%B2%94-%EB%B9%8C%EB%94%A9)
+[회장뽑기](https://www.acmicpc.net/problem/2660)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-2660%EB%B2%88-%ED%9A%8C%EC%9E%A5%EB%BD%91%EA%B8%B0)
