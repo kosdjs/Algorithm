@@ -108,3 +108,4 @@
 [숫자고르기](https://www.acmicpc.net/problem/2668)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-2668%EB%B2%88-%EC%88%AB%EC%9E%90%EA%B3%A0%EB%A5%B4%EA%B8%B0)
 [상범 빌딩](https://www.acmicpc.net/problem/6593)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-6593%EB%B2%88-%EC%83%81%EB%B2%94-%EB%B9%8C%EB%94%A9)
 [회장뽑기](https://www.acmicpc.net/problem/2660)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-2660%EB%B2%88-%ED%9A%8C%EC%9E%A5%EB%BD%91%EA%B8%B0)
+[2의 멱수의 합](https://www.acmicpc.net/problem/2410)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-2410%EB%B2%88-2%EC%9D%98-%EB%A9%B1%EC%88%98%EC%9D%98-%ED%95%A9)
