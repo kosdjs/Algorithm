@@ -110,3 +110,4 @@
 [회장뽑기](https://www.acmicpc.net/problem/2660)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-2660%EB%B2%88-%ED%9A%8C%EC%9E%A5%EB%BD%91%EA%B8%B0)
 [2의 멱수의 합](https://www.acmicpc.net/problem/2410)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-2410%EB%B2%88-2%EC%9D%98-%EB%A9%B1%EC%88%98%EC%9D%98-%ED%95%A9)
 [축구](https://www.acmicpc.net/problem/1344)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-1344%EB%B2%88-%EC%B6%95%EA%B5%AC)
+[나의 인생에는 수학과 함께](https://www.acmicpc.net/problem/17265)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-17265%EB%B2%88-%EB%82%98%EC%9D%98-%EC%9D%B8%EC%83%9D%EC%97%90%EB%8A%94-%EC%88%98%ED%95%99%EA%B3%BC-%ED%95%A8%EA%BB%98)
