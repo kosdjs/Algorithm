@@ -115,3 +115,4 @@
 [문자열 판별](https://www.acmicpc.net/problem/16500)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-16500%EB%B2%88-%EB%AC%B8%EC%9E%90%EC%97%B4-%ED%8C%90%EB%B3%84)
 [레벨 햄버거](https://www.acmicpc.net/problem/16974)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-16974%EB%B2%88-%EB%A0%88%EB%B2%A8-%ED%96%84%EB%B2%84%EA%B1%B0)
 [무한 수열 2](https://www.acmicpc.net/problem/1354)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-1354%EB%B2%88-%EB%AC%B4%ED%95%9C-%EC%88%98%EC%97%B4-2)
+[한글 LCS](https://www.acmicpc.net/problem/15482)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-15482%EB%B2%88-%ED%95%9C%EA%B8%80-LCS)
