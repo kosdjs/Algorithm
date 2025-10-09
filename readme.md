@@ -118,3 +118,4 @@
 [한글 LCS](https://www.acmicpc.net/problem/15482)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-15482%EB%B2%88-%ED%95%9C%EA%B8%80-LCS)
 [창영이와 커피](https://www.acmicpc.net/problem/22115)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-22115%EB%B2%88-%EC%B0%BD%EC%98%81%EC%9D%B4%EC%99%80-%EC%BB%A4%ED%94%BC)
 [라그랑주의 네 제곱수 정리](https://www.acmicpc.net/problem/3933)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-3933%EB%B2%88-%EB%9D%BC%EA%B7%B8%EB%9E%91%EC%A3%BC%EC%9D%98-%EB%84%A4-%EC%A0%9C%EA%B3%B1%EC%88%98-%EC%A0%95%EB%A6%AC)
+[신을 모시는 사당](https://www.acmicpc.net/problem/27210)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-27210%EB%B2%88-%EC%8B%A0%EC%9D%84-%EB%AA%A8%EC%8B%9C%EB%8A%94-%EC%82%AC%EB%8B%B9)
