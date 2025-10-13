@@ -121,3 +121,4 @@
 [신을 모시는 사당](https://www.acmicpc.net/problem/27210)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-27210%EB%B2%88-%EC%8B%A0%EC%9D%84-%EB%AA%A8%EC%8B%9C%EB%8A%94-%EC%82%AC%EB%8B%B9)
 [소수 화폐](https://www.acmicpc.net/problem/16400)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-16400%EB%B2%88-%EC%86%8C%EC%88%98-%ED%99%94%ED%8F%90)
 [김밥천국의 계단](https://www.acmicpc.net/problem/28069)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-28069%EB%B2%88-%EA%B9%80%EB%B0%A5%EC%B2%9C%EA%B5%AD%EC%9D%98-%EA%B3%84%EB%8B%A8)
+[내일 할거야](https://www.acmicpc.net/problem/7983)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-7983%EB%B2%88-%EB%82%B4%EC%9D%BC-%ED%95%A0%EA%B1%B0%EC%95%BC)
