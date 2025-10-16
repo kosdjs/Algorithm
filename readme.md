@@ -123,3 +123,5 @@
 [김밥천국의 계단](https://www.acmicpc.net/problem/28069)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-28069%EB%B2%88-%EA%B9%80%EB%B0%A5%EC%B2%9C%EA%B5%AD%EC%9D%98-%EA%B3%84%EB%8B%A8)
 [내일 할거야](https://www.acmicpc.net/problem/7983)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-7983%EB%B2%88-%EB%82%B4%EC%9D%BC-%ED%95%A0%EA%B1%B0%EC%95%BC)
 [콘센트](https://www.acmicpc.net/problem/23843)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-23843%EB%B2%88-%EC%BD%98%EC%84%BC%ED%8A%B8)
+[문자열 복사](https://www.acmicpc.net/problem/2195)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-2195%EB%B2%88-%EB%AC%B8%EC%9E%90%EC%97%B4-%EB%B3%B5%EC%82%AC)
+[포스택](https://www.acmicpc.net/problem/25556)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-25556%EB%B2%88-%ED%8F%AC%EC%8A%A4%ED%83%9D)
