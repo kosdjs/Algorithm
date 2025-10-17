@@ -125,3 +125,4 @@
 [콘센트](https://www.acmicpc.net/problem/23843)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-23843%EB%B2%88-%EC%BD%98%EC%84%BC%ED%8A%B8)
 [문자열 복사](https://www.acmicpc.net/problem/2195)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-2195%EB%B2%88-%EB%AC%B8%EC%9E%90%EC%97%B4-%EB%B3%B5%EC%82%AC)
 [포스택](https://www.acmicpc.net/problem/25556)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-25556%EB%B2%88-%ED%8F%AC%EC%8A%A4%ED%83%9D)
+[시간 관리하기](https://www.acmicpc.net/problem/6068)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-6068%EB%B2%88-%EC%8B%9C%EA%B0%84-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0)
