@@ -128,3 +128,4 @@
 [시간 관리하기](https://www.acmicpc.net/problem/6068)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-6068%EB%B2%88-%EC%8B%9C%EA%B0%84-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0)
 [가로등](https://www.acmicpc.net/problem/32069)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-32069%EB%B2%88-%EA%B0%80%EB%A1%9C%EB%93%B1)
 [모독](https://www.acmicpc.net/problem/16678)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-16678%EB%B2%88-%EB%AA%A8%EB%8F%85)
+[오목](https://www.acmicpc.net/problem/2615)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-2615%EB%B2%88-%EC%98%A4%EB%AA%A9)
