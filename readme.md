@@ -131,3 +131,4 @@
 [오목](https://www.acmicpc.net/problem/2615)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-2615%EB%B2%88-%EC%98%A4%EB%AA%A9)
 [순열의 순서](https://www.acmicpc.net/problem/1722)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-1722%EB%B2%88-%EC%88%9C%EC%97%B4%EC%9D%98-%EC%88%9C%EC%84%9C)
 [하노이 탑 이동 순서](https://www.acmicpc.net/problem/11729)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-11729%EB%B2%88-%ED%95%98%EB%85%B8%EC%9D%B4-%ED%83%91-%EC%9D%B4%EB%8F%99-%EC%88%9C%EC%84%9C)
+[별 찍기 - 10](https://www.acmicpc.net/problem/2447)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-2447%EB%B2%88-%EB%B3%84-%EC%B0%8D%EA%B8%B0-10)
