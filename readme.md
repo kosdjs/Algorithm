@@ -133,3 +133,4 @@
 [하노이 탑 이동 순서](https://www.acmicpc.net/problem/11729)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-11729%EB%B2%88-%ED%95%98%EB%85%B8%EC%9D%B4-%ED%83%91-%EC%9D%B4%EB%8F%99-%EC%88%9C%EC%84%9C)
 [별 찍기 - 10](https://www.acmicpc.net/problem/2447)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-2447%EB%B2%88-%EB%B3%84-%EC%B0%8D%EA%B8%B0-10)
 [암호 만들기](https://www.acmicpc.net/problem/1759)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-1759%EB%B2%88-%EC%95%94%ED%98%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0)
+[탑](https://www.acmicpc.net/problem/2493)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-2493%EB%B2%88-%ED%83%91)
