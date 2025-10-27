@@ -134,3 +134,5 @@
 [별 찍기 - 10](https://www.acmicpc.net/problem/2447)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-2447%EB%B2%88-%EB%B3%84-%EC%B0%8D%EA%B8%B0-10)
 [암호 만들기](https://www.acmicpc.net/problem/1759)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-1759%EB%B2%88-%EC%95%94%ED%98%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0)
 [탑](https://www.acmicpc.net/problem/2493)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-2493%EB%B2%88-%ED%83%91)
+[기타 레슨](https://www.acmicpc.net/problem/2343)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-2343%EB%B2%88-%EA%B8%B0%ED%83%80-%EB%A0%88%EC%8A%A8)
+[다각형의 면적](https://www.acmicpc.net/problem/2166)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-2166%EB%B2%88-%EB%8B%A4%EA%B0%81%ED%98%95%EC%9D%98-%EB%A9%B4%EC%A0%81)
