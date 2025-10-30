@@ -138,3 +138,4 @@
 [다각형의 면적](https://www.acmicpc.net/problem/2166)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-2166%EB%B2%88-%EB%8B%A4%EA%B0%81%ED%98%95%EC%9D%98-%EB%A9%B4%EC%A0%81)
 [선 긋기](https://www.acmicpc.net/problem/2170)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-2170%EB%B2%88-%EC%84%A0-%EA%B8%8B%EA%B8%B0)
 [회문](https://www.acmicpc.net/problem/17609)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-17609%EB%B2%88-%ED%9A%8C%EB%AC%B8)
+[옥상 정원 꾸미기](https://www.acmicpc.net/problem/6198)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-6198%EB%B2%88-%EC%98%A5%EC%83%81-%EC%A0%95%EC%9B%90-%EA%BE%B8%EB%AF%B8%EA%B8%B0)
