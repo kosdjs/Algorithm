@@ -148,3 +148,4 @@
 [거의 소수](https://www.acmicpc.net/problem/1456)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-1456%EB%B2%88-%EA%B1%B0%EC%9D%98-%EC%86%8C%EC%88%98)
 [주사위 쌓기](https://www.acmicpc.net/problem/2116)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-2116%EB%B2%88-%EC%A3%BC%EC%82%AC%EC%9C%84-%EC%8C%93%EA%B8%B0)
 [다이어트](https://www.acmicpc.net/problem/1484)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-1484%EB%B2%88-%EB%8B%A4%EC%9D%B4%EC%96%B4%ED%8A%B8)
+[캠프 준비](https://www.acmicpc.net/problem/16938)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-16938%EB%B2%88-%EC%BA%A0%ED%94%84-%EC%A4%80%EB%B9%84)
