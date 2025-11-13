@@ -150,3 +150,4 @@
 [다이어트](https://www.acmicpc.net/problem/1484)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-1484%EB%B2%88-%EB%8B%A4%EC%9D%B4%EC%96%B4%ED%8A%B8)
 [캠프 준비](https://www.acmicpc.net/problem/16938)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-16938%EB%B2%88-%EC%BA%A0%ED%94%84-%EC%A4%80%EB%B9%84)
 [줄어드는 수](https://www.acmicpc.net/problem/1174)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-1174%EB%B2%88-%EC%A4%84%EC%96%B4%EB%93%9C%EB%8A%94-%EC%88%98)
+[특정한 최단 경로](https://www.acmicpc.net/problem/1504)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-1504%EB%B2%88-%ED%8A%B9%EC%A0%95%ED%95%9C-%EC%B5%9C%EB%8B%A8-%EA%B2%BD%EB%A1%9C)
