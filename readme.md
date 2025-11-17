@@ -153,3 +153,5 @@
 [특정한 최단 경로](https://www.acmicpc.net/problem/1504)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-1504%EB%B2%88-%ED%8A%B9%EC%A0%95%ED%95%9C-%EC%B5%9C%EB%8B%A8-%EA%B2%BD%EB%A1%9C)
 [트리의 지름](https://www.acmicpc.net/problem/1967)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-1967%EB%B2%88-%ED%8A%B8%EB%A6%AC%EC%9D%98-%EC%A7%80%EB%A6%84)
 [알파벳](https://www.acmicpc.net/problem/1987)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-1987%EB%B2%88-%EC%95%8C%ED%8C%8C%EB%B2%B3)
+[별 찍기 - 11](https://www.acmicpc.net/problem/2448)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-2448%EB%B2%88-%EB%B3%84-%EC%B0%8D%EA%B8%B0-11)
+[이진 검색 트리](https://www.acmicpc.net/problem/5639)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-5639%EB%B2%88-%EC%9D%B4%EC%A7%84-%EA%B2%80%EC%83%89-%ED%8A%B8%EB%A6%AC)
