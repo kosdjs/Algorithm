@@ -157,3 +157,4 @@
 [이진 검색 트리](https://www.acmicpc.net/problem/5639)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-5639%EB%B2%88-%EC%9D%B4%EC%A7%84-%EA%B2%80%EC%83%89-%ED%8A%B8%EB%A6%AC)
 [문자열 폭발](https://www.acmicpc.net/problem/9935)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-9935%EB%B2%88-%EB%AC%B8%EC%9E%90%EC%97%B4-%ED%8F%AD%EB%B0%9C)
 [RGB거리](https://www.acmicpc.net/problem/1149)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-1149%EB%B2%88-RGB%EA%B1%B0%EB%A6%AC)
+[N과 M (2)](https://www.acmicpc.net/problem/15650)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-15650%EB%B2%88-N%EA%B3%BC-M-2)
