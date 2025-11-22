@@ -159,3 +159,4 @@
 [RGB거리](https://www.acmicpc.net/problem/1149)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-1149%EB%B2%88-RGB%EA%B1%B0%EB%A6%AC)
 [N과 M (2)](https://www.acmicpc.net/problem/15650)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-15650%EB%B2%88-N%EA%B3%BC-M-2)
 [트리의 지름](https://www.acmicpc.net/problem/1167)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-1167%EB%B2%88-%ED%8A%B8%EB%A6%AC%EC%9D%98-%EC%A7%80%EB%A6%84)
+[곱셈](https://www.acmicpc.net/problem/1629)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-1629%EB%B2%88-%EA%B3%B1%EC%85%88)
