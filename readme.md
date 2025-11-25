@@ -161,3 +161,4 @@
 [트리의 지름](https://www.acmicpc.net/problem/1167)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-1167%EB%B2%88-%ED%8A%B8%EB%A6%AC%EC%9D%98-%EC%A7%80%EB%A6%84)
 [곱셈](https://www.acmicpc.net/problem/1629)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-1629%EB%B2%88-%EA%B3%B1%EC%85%88)
 [트리의 부모 찾기](https://www.acmicpc.net/problem/11725)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-11725%EB%B2%88-%ED%8A%B8%EB%A6%AC%EC%9D%98-%EB%B6%80%EB%AA%A8-%EC%B0%BE%EA%B8%B0)
+[정수 삼각형](https://www.acmicpc.net/problem/1932)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-1932%EB%B2%88-%EC%A0%95%EC%88%98-%EC%82%BC%EA%B0%81%ED%98%95)
