@@ -163,3 +163,4 @@
 [트리의 부모 찾기](https://www.acmicpc.net/problem/11725)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-11725%EB%B2%88-%ED%8A%B8%EB%A6%AC%EC%9D%98-%EB%B6%80%EB%AA%A8-%EC%B0%BE%EA%B8%B0)
 [정수 삼각형](https://www.acmicpc.net/problem/1932)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-1932%EB%B2%88-%EC%A0%95%EC%88%98-%EC%82%BC%EA%B0%81%ED%98%95)
 [트리 순회](https://www.acmicpc.net/problem/1991)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-1991%EB%B2%88-%ED%8A%B8%EB%A6%AC-%EC%88%9C%ED%9A%8C)
+[N과 M (5)](https://www.acmicpc.net/problem/15654)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-15654%EB%B2%88-N%EA%B3%BC-M-5)
