@@ -164,3 +164,4 @@
 [정수 삼각형](https://www.acmicpc.net/problem/1932)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-1932%EB%B2%88-%EC%A0%95%EC%88%98-%EC%82%BC%EA%B0%81%ED%98%95)
 [트리 순회](https://www.acmicpc.net/problem/1991)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-1991%EB%B2%88-%ED%8A%B8%EB%A6%AC-%EC%88%9C%ED%9A%8C)
 [N과 M (5)](https://www.acmicpc.net/problem/15654)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-15654%EB%B2%88-N%EA%B3%BC-M-5)
+[가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-11053%EB%B2%88-%EA%B0%80%EC%9E%A5-%EA%B8%B4-%EC%A6%9D%EA%B0%80%ED%95%98%EB%8A%94-%EB%B6%80%EB%B6%84-%EC%88%98%EC%97%B4)
