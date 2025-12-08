@@ -171,3 +171,4 @@
 [타임머신](https://www.acmicpc.net/problem/11657)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-11657%EB%B2%88-%ED%83%80%EC%9E%84%EB%A8%B8%EC%8B%A0)
 [구간 합 구하기 5](https://www.acmicpc.net/problem/11660)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-11660%EB%B2%88-%EA%B5%AC%EA%B0%84-%ED%95%A9-%EA%B5%AC%ED%95%98%EA%B8%B0-5)
 [후위 표기식](https://www.acmicpc.net/problem/1918)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-1918%EB%B2%88-%ED%9B%84%EC%9C%84-%ED%91%9C%EA%B8%B0%EC%8B%9D)
+[친구비](https://www.acmicpc.net/problem/16562)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-16562%EB%B2%88-%EC%B9%9C%EA%B5%AC%EB%B9%84)
