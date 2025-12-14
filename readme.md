@@ -177,3 +177,4 @@
 [N과 M (4)](https://www.acmicpc.net/problem/15652)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-15652%EB%B2%88-N%EA%B3%BC-M-4)
 [A → B](https://www.acmicpc.net/problem/16953)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-16953%EB%B2%88-A-B)
 [행렬 제곱](https://www.acmicpc.net/problem/10830)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-10830%EB%B2%88-%ED%96%89%EB%A0%AC-%EC%A0%9C%EA%B3%B1)
+[숨바꼭질 2](https://www.acmicpc.net/problem/12851)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-12851%EB%B2%88-%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%88-2)
