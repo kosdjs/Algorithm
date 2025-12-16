@@ -179,3 +179,4 @@
 [행렬 제곱](https://www.acmicpc.net/problem/10830)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-10830%EB%B2%88-%ED%96%89%EB%A0%AC-%EC%A0%9C%EA%B3%B1)
 [숨바꼭질 2](https://www.acmicpc.net/problem/12851)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-12851%EB%B2%88-%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%88-2)
 [가장 긴 바이토닉 부분 수열](https://www.acmicpc.net/problem/11054)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-11054%EB%B2%88-%EA%B0%80%EC%9E%A5-%EA%B8%B4-%EB%B0%94%EC%9D%B4%ED%86%A0%EB%8B%89-%EB%B6%80%EB%B6%84-%EC%88%98%EC%97%B4)
+[Σ](https://www.acmicpc.net/problem/13172)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-13172%EB%B2%88)
