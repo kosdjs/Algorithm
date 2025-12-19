@@ -182,3 +182,4 @@
 [Σ](https://www.acmicpc.net/problem/13172)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-13172%EB%B2%88)
 [N과 M (12)](https://www.acmicpc.net/problem/15666)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-15666%EB%B2%88-N%EA%B3%BC-M-12)
 [연구소](https://www.acmicpc.net/problem/14502)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-14502%EB%B2%88-%EC%97%B0%EA%B5%AC%EC%86%8C)
+[서강그라운드](https://www.acmicpc.net/problem/14938)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-14938%EB%B2%88-%EC%84%9C%EA%B0%95%EA%B7%B8%EB%9D%BC%EC%9A%B4%EB%93%9C)
