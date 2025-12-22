@@ -185,3 +185,4 @@
 [서강그라운드](https://www.acmicpc.net/problem/14938)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-14938%EB%B2%88-%EC%84%9C%EA%B0%95%EA%B7%B8%EB%9D%BC%EC%9A%B4%EB%93%9C)
 [미세먼지 안녕!](https://www.acmicpc.net/problem/17144)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-17144%EB%B2%88-%EB%AF%B8%EC%84%B8%EB%A8%BC%EC%A7%80-%EC%95%88%EB%85%95)
 [숨바꼭질](https://www.acmicpc.net/problem/1697)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-1697%EB%B2%88-%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%88)
+[치즈](https://www.acmicpc.net/problem/2638)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-2638%EB%B2%88-%EC%B9%98%EC%A6%88)
