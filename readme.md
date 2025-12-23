@@ -186,3 +186,4 @@
 [미세먼지 안녕!](https://www.acmicpc.net/problem/17144)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-17144%EB%B2%88-%EB%AF%B8%EC%84%B8%EB%A8%BC%EC%A7%80-%EC%95%88%EB%85%95)
 [숨바꼭질](https://www.acmicpc.net/problem/1697)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-1697%EB%B2%88-%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%88)
 [치즈](https://www.acmicpc.net/problem/2638)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-2638%EB%B2%88-%EC%B9%98%EC%A6%88)
+[최소비용 구하기 2](https://www.acmicpc.net/problem/11779)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-11779%EB%B2%88-%EC%B5%9C%EC%86%8C%EB%B9%84%EC%9A%A9-%EA%B5%AC%ED%95%98%EA%B8%B0-2)
