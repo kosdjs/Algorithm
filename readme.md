@@ -187,3 +187,4 @@
 [숨바꼭질](https://www.acmicpc.net/problem/1697)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-1697%EB%B2%88-%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%88)
 [치즈](https://www.acmicpc.net/problem/2638)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-2638%EB%B2%88-%EC%B9%98%EC%A6%88)
 [최소비용 구하기 2](https://www.acmicpc.net/problem/11779)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-11779%EB%B2%88-%EC%B5%9C%EC%86%8C%EB%B9%84%EC%9A%A9-%EA%B5%AC%ED%95%98%EA%B8%B0-2)
+[테트로미노](https://www.acmicpc.net/problem/14500)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-14500%EB%B2%88-%ED%85%8C%ED%8A%B8%EB%A1%9C%EB%AF%B8%EB%85%B8)
