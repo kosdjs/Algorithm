@@ -189,3 +189,4 @@
 [최소비용 구하기 2](https://www.acmicpc.net/problem/11779)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-11779%EB%B2%88-%EC%B5%9C%EC%86%8C%EB%B9%84%EC%9A%A9-%EA%B5%AC%ED%95%98%EA%B8%B0-2)
 [테트로미노](https://www.acmicpc.net/problem/14500)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-14500%EB%B2%88-%ED%85%8C%ED%8A%B8%EB%A1%9C%EB%AF%B8%EB%85%B8)
 [DSLR](https://www.acmicpc.net/problem/9019)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-9019%EB%B2%88-DSLR)
+[절댓값 힙](https://www.acmicpc.net/problem/11286)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-11286%EB%B2%88-%EC%A0%88%EB%8C%93%EA%B0%92-%ED%9E%99)
