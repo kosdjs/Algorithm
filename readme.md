@@ -190,3 +190,4 @@
 [테트로미노](https://www.acmicpc.net/problem/14500)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-14500%EB%B2%88-%ED%85%8C%ED%8A%B8%EB%A1%9C%EB%AF%B8%EB%85%B8)
 [DSLR](https://www.acmicpc.net/problem/9019)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-9019%EB%B2%88-DSLR)
 [절댓값 힙](https://www.acmicpc.net/problem/11286)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-11286%EB%B2%88-%EC%A0%88%EB%8C%93%EA%B0%92-%ED%9E%99)
+[로마 숫자](https://www.acmicpc.net/problem/2608)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-2608%EB%B2%88-%EB%A1%9C%EB%A7%88-%EC%88%AB%EC%9E%90)
