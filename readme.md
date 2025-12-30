@@ -192,3 +192,4 @@
 [절댓값 힙](https://www.acmicpc.net/problem/11286)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-11286%EB%B2%88-%EC%A0%88%EB%8C%93%EA%B0%92-%ED%9E%99)
 [로마 숫자](https://www.acmicpc.net/problem/2608)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-2608%EB%B2%88-%EB%A1%9C%EB%A7%88-%EC%88%AB%EC%9E%90)
 [피자 굽기](https://www.acmicpc.net/problem/1756)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-1756%EB%B2%88-%ED%94%BC%EC%9E%90-%EA%B5%BD%EA%B8%B0)
+[사다리 타기](https://www.acmicpc.net/problem/2469)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-2469%EB%B2%88-%EC%82%AC%EB%8B%A4%EB%A6%AC-%ED%83%80%EA%B8%B0)
