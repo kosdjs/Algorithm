@@ -193,3 +193,4 @@
 [로마 숫자](https://www.acmicpc.net/problem/2608)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-2608%EB%B2%88-%EB%A1%9C%EB%A7%88-%EC%88%AB%EC%9E%90)
 [피자 굽기](https://www.acmicpc.net/problem/1756)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-1756%EB%B2%88-%ED%94%BC%EC%9E%90-%EA%B5%BD%EA%B8%B0)
 [사다리 타기](https://www.acmicpc.net/problem/2469)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-2469%EB%B2%88-%EC%82%AC%EB%8B%A4%EB%A6%AC-%ED%83%80%EA%B8%B0)
+[항체 인식](https://www.acmicpc.net/problem/22352)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-22352%EB%B2%88-%ED%95%AD%EC%B2%B4-%EC%9D%B8%EC%8B%9D)
