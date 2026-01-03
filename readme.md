@@ -196,3 +196,4 @@
 [항체 인식](https://www.acmicpc.net/problem/22352)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-22352%EB%B2%88-%ED%95%AD%EC%B2%B4-%EC%9D%B8%EC%8B%9D)
 [귀찮은 해강이](https://www.acmicpc.net/problem/24391)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-24391%EB%B2%88-%EA%B7%80%EC%B0%AE%EC%9D%80-%ED%95%B4%EA%B0%95%EC%9D%B4)
 [사과나무](https://www.acmicpc.net/problem/20002)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-20002%EB%B2%88-%EC%82%AC%EA%B3%BC%EB%82%98%EB%AC%B4)
+[암호](https://www.acmicpc.net/problem/1394)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-1394%EB%B2%88-%EC%95%94%ED%98%B8)
