@@ -200,3 +200,4 @@
 [도넛 행성](https://www.acmicpc.net/problem/27211)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-27211%EB%B2%88-%EB%8F%84%EB%84%9B-%ED%96%89%EC%84%B1)
 [선발 명단](https://www.acmicpc.net/problem/3980)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-3980%EB%B2%88-%EC%84%A0%EB%B0%9C-%EB%AA%85%EB%8B%A8)
 [벼락치기](https://www.acmicpc.net/problem/29704)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-29704%EB%B2%88-%EB%B2%BC%EB%9D%BD%EC%B9%98%EA%B8%B0)
+[톱니바퀴 (2)](https://www.acmicpc.net/problem/15662)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-15662%EB%B2%88-%ED%86%B1%EB%8B%88%EB%B0%94%ED%80%B4-2)
