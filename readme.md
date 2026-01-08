@@ -201,3 +201,4 @@
 [선발 명단](https://www.acmicpc.net/problem/3980)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-3980%EB%B2%88-%EC%84%A0%EB%B0%9C-%EB%AA%85%EB%8B%A8)
 [벼락치기](https://www.acmicpc.net/problem/29704)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-29704%EB%B2%88-%EB%B2%BC%EB%9D%BD%EC%B9%98%EA%B8%B0)
 [톱니바퀴 (2)](https://www.acmicpc.net/problem/15662)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-15662%EB%B2%88-%ED%86%B1%EB%8B%88%EB%B0%94%ED%80%B4-2)
+[아우으 우아으이야!!](https://www.acmicpc.net/problem/15922)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-15922%EB%B2%88-%EC%95%84%EC%9A%B0%EC%9C%BC-%EC%9A%B0%EC%95%84%EC%9C%BC%EC%9D%B4%EC%95%BC)
