@@ -203,3 +203,4 @@
 [톱니바퀴 (2)](https://www.acmicpc.net/problem/15662)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-15662%EB%B2%88-%ED%86%B1%EB%8B%88%EB%B0%94%ED%80%B4-2)
 [아우으 우아으이야!!](https://www.acmicpc.net/problem/15922)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-15922%EB%B2%88-%EC%95%84%EC%9A%B0%EC%9C%BC-%EC%9A%B0%EC%95%84%EC%9C%BC%EC%9D%B4%EC%95%BC)
 [태상이의 훈련소 생활](https://www.acmicpc.net/problem/19951)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-19951%EB%B2%88-%ED%83%9C%EC%83%81%EC%9D%B4%EC%9D%98-%ED%9B%88%EB%A0%A8%EC%86%8C-%EC%83%9D%ED%99%9C)
+[디저트](https://www.acmicpc.net/problem/17953)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-17953%EB%B2%88-%EB%94%94%EC%A0%80%ED%8A%B8)
