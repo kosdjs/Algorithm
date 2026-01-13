@@ -205,3 +205,4 @@
 [태상이의 훈련소 생활](https://www.acmicpc.net/problem/19951)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-19951%EB%B2%88-%ED%83%9C%EC%83%81%EC%9D%B4%EC%9D%98-%ED%9B%88%EB%A0%A8%EC%86%8C-%EC%83%9D%ED%99%9C)
 [디저트](https://www.acmicpc.net/problem/17953)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-17953%EB%B2%88-%EB%94%94%EC%A0%80%ED%8A%B8)
 [입력숫자](https://www.acmicpc.net/problem/8981)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-8981%EB%B2%88-%EC%9E%85%EB%A0%A5%EC%88%AB%EC%9E%90)
+[별자리 찾기](https://www.acmicpc.net/problem/5588)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-5588%EB%B2%88-%EB%B3%84%EC%9E%90%EB%A6%AC-%EC%B0%BE%EA%B8%B0)
