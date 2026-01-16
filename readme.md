@@ -208,3 +208,4 @@
 [별자리 찾기](https://www.acmicpc.net/problem/5588)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-5588%EB%B2%88-%EB%B3%84%EC%9E%90%EB%A6%AC-%EC%B0%BE%EA%B8%B0)
 [ZOAC](https://www.acmicpc.net/problem/16719)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-16719%EB%B2%88-ZOAC)
 [4와 7](https://www.acmicpc.net/problem/2877)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-2877%EB%B2%88-4%EC%99%80-7)
+[장군](https://www.acmicpc.net/problem/16509)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-16509%EB%B2%88-%EC%9E%A5%EA%B5%B0)
