@@ -211,3 +211,4 @@
 [장군](https://www.acmicpc.net/problem/16509)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-16509%EB%B2%88-%EC%9E%A5%EA%B5%B0)
 [카드 섞기](https://www.acmicpc.net/problem/21315)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-21315%EB%B2%88-%EC%B9%B4%EB%93%9C-%EC%84%9E%EA%B8%B0)
 [행성 탐사](https://www.acmicpc.net/problem/5549)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-5549%EB%B2%88-%ED%96%89%EC%84%B1-%ED%83%90%EC%82%AC)
+[Coins](https://www.acmicpc.net/problem/3067)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-3067%EB%B2%88-Coins)
