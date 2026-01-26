@@ -216,3 +216,4 @@
 [서로 다른 자연수의 합](https://www.acmicpc.net/problem/9764)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-9764%EB%B2%88-%EC%84%9C%EB%A1%9C-%EB%8B%A4%EB%A5%B8-%EC%9E%90%EC%97%B0%EC%88%98%EC%9D%98-%ED%95%A9)
 [점프 게임](https://www.acmicpc.net/problem/15558)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-15558%EB%B2%88-%EC%A0%90%ED%94%84-%EA%B2%8C%EC%9E%84)
 [세 친구](https://www.acmicpc.net/problem/17089)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-17089%EB%B2%88-%EC%84%B8-%EC%B9%9C%EA%B5%AC)
+[개업](https://www.acmicpc.net/problem/13910)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-13910%EB%B2%88-%EA%B0%9C%EC%97%85)
