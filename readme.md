@@ -220,3 +220,4 @@
 [Ezreal 여눈부터 가네 ㅈㅈ](https://www.acmicpc.net/problem/20500)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-20500%EB%B2%88-Ezreal-%EC%97%AC%EB%88%88%EB%B6%80%ED%84%B0-%EA%B0%80%EB%84%A4-%E3%85%88%E3%85%88)
 [홀릭 홀릭 호석](https://www.acmicpc.net/problem/20164)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-20164%EB%B2%88-%ED%99%80%EB%A6%AD-%ED%99%80%EB%A6%AD-%ED%98%B8%EC%84%9D)
 [난로](https://www.acmicpc.net/problem/15553)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-15553%EB%B2%88-%EB%82%9C%EB%A1%9C)
+[매직 스타](https://www.acmicpc.net/problem/3967)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-3967%EB%B2%88-%EB%A7%A4%EC%A7%81-%EC%8A%A4%ED%83%80)
