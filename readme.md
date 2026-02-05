@@ -224,3 +224,4 @@
 [틱택토](https://www.acmicpc.net/problem/7682)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-7682%EB%B2%88-%ED%8B%B1%ED%83%9D%ED%86%A0)
 [잠수함식별](https://www.acmicpc.net/problem/2671)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-2671%EB%B2%88-%EC%9E%A0%EC%88%98%ED%95%A8%EC%8B%9D%EB%B3%84)
 [테트리스](https://www.acmicpc.net/problem/3019)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-3019%EB%B2%88-%ED%85%8C%ED%8A%B8%EB%A6%AC%EC%8A%A4)
+[여러분의 다리가 되어 드리겠습니다!](https://www.acmicpc.net/problem/17352)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-17352%EB%B2%88-%EC%97%AC%EB%9F%AC%EB%B6%84%EC%9D%98-%EB%8B%A4%EB%A6%AC%EA%B0%80-%EB%90%98%EC%96%B4-%EB%93%9C%EB%A6%AC%EA%B2%A0%EC%8A%B5%EB%8B%88%EB%8B%A4)
