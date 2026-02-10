@@ -227,3 +227,4 @@
 [여러분의 다리가 되어 드리겠습니다!](https://www.acmicpc.net/problem/17352)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-17352%EB%B2%88-%EC%97%AC%EB%9F%AC%EB%B6%84%EC%9D%98-%EB%8B%A4%EB%A6%AC%EA%B0%80-%EB%90%98%EC%96%B4-%EB%93%9C%EB%A6%AC%EA%B2%A0%EC%8A%B5%EB%8B%88%EB%8B%A4)
 [농장 관리](https://www.acmicpc.net/problem/1245)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-1245%EB%B2%88-%EB%86%8D%EC%9E%A5-%EA%B4%80%EB%A6%AC)
 [나무 위의 빗물](https://www.acmicpc.net/problem/17073)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-17073%EB%B2%88-%EB%82%98%EB%AC%B4-%EC%9C%84%EC%9D%98-%EB%B9%97%EB%AC%BC)
+[소셜 네트워킹 어플리케이션](https://www.acmicpc.net/problem/7511)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-7511%EB%B2%88-%EC%86%8C%EC%85%9C-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%82%B9-%EC%96%B4%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98)
