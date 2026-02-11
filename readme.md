@@ -228,3 +228,4 @@
 [농장 관리](https://www.acmicpc.net/problem/1245)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-1245%EB%B2%88-%EB%86%8D%EC%9E%A5-%EA%B4%80%EB%A6%AC)
 [나무 위의 빗물](https://www.acmicpc.net/problem/17073)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-17073%EB%B2%88-%EB%82%98%EB%AC%B4-%EC%9C%84%EC%9D%98-%EB%B9%97%EB%AC%BC)
 [소셜 네트워킹 어플리케이션](https://www.acmicpc.net/problem/7511)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-7511%EB%B2%88-%EC%86%8C%EC%85%9C-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%82%B9-%EC%96%B4%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98)
+[종이 접기](https://www.acmicpc.net/problem/1802)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-1802%EB%B2%88-%EC%A2%85%EC%9D%B4-%EC%A0%91%EA%B8%B0)
