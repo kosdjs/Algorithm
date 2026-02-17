@@ -232,3 +232,4 @@
 [가지고 노는 1](https://www.acmicpc.net/problem/1612)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-1612%EB%B2%88-%EA%B0%80%EC%A7%80%EA%B3%A0-%EB%85%B8%EB%8A%94-1)
 [문자 해독](https://www.acmicpc.net/problem/1593)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-1593%EB%B2%88-%EB%AC%B8%EC%9E%90-%ED%95%B4%EB%8F%85)
 [a^b](https://www.acmicpc.net/problem/10827)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-10827%EB%B2%88-ab)
+[색칠하기](https://www.acmicpc.net/problem/13265)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-13265%EB%B2%88-%EC%83%89%EC%B9%A0%ED%95%98%EA%B8%B0)
