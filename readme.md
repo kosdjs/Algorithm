@@ -238,3 +238,4 @@
 [차트](https://www.acmicpc.net/problem/1239)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-1239%EB%B2%88-%EC%B0%A8%ED%8A%B8)
 [같은 나머지](https://www.acmicpc.net/problem/1684)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-1684%EB%B2%88-%EA%B0%99%EC%9D%80-%EB%82%98%EB%A8%B8%EC%A7%80)
 [랭퍼든 수열쟁이야!!](https://www.acmicpc.net/problem/15918)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-15918%EB%B2%88-%EB%9E%AD%ED%8D%BC%EB%93%A0-%EC%88%98%EC%97%B4%EC%9F%81%EC%9D%B4%EC%95%BC)
+[특별상](https://www.acmicpc.net/problem/25391)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-25391%EB%B2%88-%ED%8A%B9%EB%B3%84%EC%83%81)
