@@ -240,3 +240,4 @@
 [랭퍼든 수열쟁이야!!](https://www.acmicpc.net/problem/15918)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-15918%EB%B2%88-%EB%9E%AD%ED%8D%BC%EB%93%A0-%EC%88%98%EC%97%B4%EC%9F%81%EC%9D%B4%EC%95%BC)
 [특별상](https://www.acmicpc.net/problem/25391)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-25391%EB%B2%88-%ED%8A%B9%EB%B3%84%EC%83%81)
 [보이저 1호](https://www.acmicpc.net/problem/3987)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-3987%EB%B2%88-%EB%B3%B4%EC%9D%B4%EC%A0%80-1%ED%98%B8)
+[자연수 색칠하기](https://www.acmicpc.net/problem/23048)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-23048%EB%B2%88-%EC%9E%90%EC%97%B0%EC%88%98-%EC%83%89%EC%B9%A0%ED%95%98%EA%B8%B0)
