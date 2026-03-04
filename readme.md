@@ -242,3 +242,4 @@
 [보이저 1호](https://www.acmicpc.net/problem/3987)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-3987%EB%B2%88-%EB%B3%B4%EC%9D%B4%EC%A0%80-1%ED%98%B8)
 [자연수 색칠하기](https://www.acmicpc.net/problem/23048)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-23048%EB%B2%88-%EC%9E%90%EC%97%B0%EC%88%98-%EC%83%89%EC%B9%A0%ED%95%98%EA%B8%B0)
 [빌런 호석](https://www.acmicpc.net/problem/22251)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-22251%EB%B2%88-%EB%B9%8C%EB%9F%B0-%ED%98%B8%EC%84%9D)
+[산업 스파이의 편지](https://www.acmicpc.net/problem/3671)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-3671%EB%B2%88-%EC%82%B0%EC%97%85-%EC%8A%A4%ED%8C%8C%EC%9D%B4%EC%9D%98-%ED%8E%B8%EC%A7%80)
