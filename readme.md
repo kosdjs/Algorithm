@@ -244,3 +244,4 @@
 [빌런 호석](https://www.acmicpc.net/problem/22251)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-22251%EB%B2%88-%EB%B9%8C%EB%9F%B0-%ED%98%B8%EC%84%9D)
 [산업 스파이의 편지](https://www.acmicpc.net/problem/3671)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-3671%EB%B2%88-%EC%82%B0%EC%97%85-%EC%8A%A4%ED%8C%8C%EC%9D%B4%EC%9D%98-%ED%8E%B8%EC%A7%80)
 [문자열 변환](https://www.acmicpc.net/problem/10453)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-10453%EB%B2%88-%EB%AC%B8%EC%9E%90%EC%97%B4-%EB%B3%80%ED%99%98)
+[다항식 게임](https://www.acmicpc.net/problem/11560)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-11560%EB%B2%88-%EB%8B%A4%ED%95%AD%EC%8B%9D-%EA%B2%8C%EC%9E%84)
