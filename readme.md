@@ -247,3 +247,4 @@
 [다항식 게임](https://www.acmicpc.net/problem/11560)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-11560%EB%B2%88-%EB%8B%A4%ED%95%AD%EC%8B%9D-%EA%B2%8C%EC%9E%84)
 [방탈출](https://www.acmicpc.net/problem/23352)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-23352%EB%B2%88-%EB%B0%A9%ED%83%88%EC%B6%9C)
 [갤러리](https://www.acmicpc.net/problem/2115)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-2115%EB%B2%88-%EA%B0%A4%EB%9F%AC%EB%A6%AC)
+[두 개의 탑](https://www.acmicpc.net/problem/2118)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-2118%EB%B2%88-%EB%91%90-%EA%B0%9C%EC%9D%98-%ED%83%91)
