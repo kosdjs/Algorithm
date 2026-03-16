@@ -250,3 +250,4 @@
 [두 개의 탑](https://www.acmicpc.net/problem/2118)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-2118%EB%B2%88-%EB%91%90-%EA%B0%9C%EC%9D%98-%ED%83%91)
 [졸려](https://www.acmicpc.net/problem/9519)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-9519%EB%B2%88-%EC%A1%B8%EB%A0%A4)
 [나는 기말고사형 인간이야](https://www.acmicpc.net/problem/23254)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-23254%EB%B2%88-%EB%82%98%EB%8A%94-%EA%B8%B0%EB%A7%90%EA%B3%A0%EC%82%AC%ED%98%95-%EC%9D%B8%EA%B0%84%EC%9D%B4%EC%95%BC)
+[민식어](https://www.acmicpc.net/problem/1599)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-1599%EB%B2%88-%EB%AF%BC%EC%8B%9D%EC%96%B4)
