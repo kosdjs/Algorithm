@@ -253,3 +253,4 @@
 [민식어](https://www.acmicpc.net/problem/1599)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-1599%EB%B2%88-%EB%AF%BC%EC%8B%9D%EC%96%B4)
 [넴모넴모 (Easy)](https://www.acmicpc.net/problem/14712)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-14712%EB%B2%88-%EB%84%B4%EB%AA%A8%EB%84%B4%EB%AA%A8-Easy)
 [게임을 클리어하자](https://www.acmicpc.net/problem/28017)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-28017%EB%B2%88-%EA%B2%8C%EC%9E%84%EC%9D%84-%ED%81%B4%EB%A6%AC%EC%96%B4%ED%95%98%EC%9E%90)
+[줄서기](https://www.acmicpc.net/problem/17178)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-17178%EB%B2%88-%EC%A4%84%EC%84%9C%EA%B8%B0)
