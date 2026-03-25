@@ -257,3 +257,4 @@
 [스위치](https://www.acmicpc.net/problem/30460)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-30460%EB%B2%88-%EC%8A%A4%EC%9C%84%EC%B9%98)
 [그래프 탐색](https://www.acmicpc.net/problem/14217)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-14217%EB%B2%88-%EA%B7%B8%EB%9E%98%ED%94%84-%ED%83%90%EC%83%89)
 [팀원 모집](https://www.acmicpc.net/problem/11578)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-11578%EB%B2%88-%ED%8C%80%EC%9B%90-%EB%AA%A8%EC%A7%91)
+[부분 삼각 수열](https://www.acmicpc.net/problem/1548)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-1548%EB%B2%88-%EB%B6%80%EB%B6%84-%EC%82%BC%EA%B0%81-%EC%88%98%EC%97%B4)
