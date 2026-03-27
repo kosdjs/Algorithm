@@ -259,3 +259,4 @@
 [팀원 모집](https://www.acmicpc.net/problem/11578)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-11578%EB%B2%88-%ED%8C%80%EC%9B%90-%EB%AA%A8%EC%A7%91)
 [부분 삼각 수열](https://www.acmicpc.net/problem/1548)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-1548%EB%B2%88-%EB%B6%80%EB%B6%84-%EC%82%BC%EA%B0%81-%EC%88%98%EC%97%B4)
 [아름다운 문자열](https://www.acmicpc.net/problem/24524)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-24524%EB%B2%88-%EC%95%84%EB%A6%84%EB%8B%A4%EC%9A%B4-%EB%AC%B8%EC%9E%90%EC%97%B4)
+[오델로](https://www.acmicpc.net/problem/15671)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-15671%EB%B2%88-%EC%98%A4%EB%8D%B8%EB%A1%9C)
