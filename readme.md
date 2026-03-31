@@ -261,3 +261,4 @@
 [아름다운 문자열](https://www.acmicpc.net/problem/24524)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-24524%EB%B2%88-%EC%95%84%EB%A6%84%EB%8B%A4%EC%9A%B4-%EB%AC%B8%EC%9E%90%EC%97%B4)
 [오델로](https://www.acmicpc.net/problem/15671)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-15671%EB%B2%88-%EC%98%A4%EB%8D%B8%EB%A1%9C)
 [가짜소수](https://www.acmicpc.net/problem/4233)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-4233%EB%B2%88-%EA%B0%80%EC%A7%9C%EC%86%8C%EC%88%98)
+[십자뒤집기](https://www.acmicpc.net/problem/10472)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-10472%EB%B2%88-%EC%8B%AD%EC%9E%90%EB%92%A4%EC%A7%91%EA%B8%B0)
