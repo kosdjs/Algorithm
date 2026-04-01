@@ -262,3 +262,4 @@
 [오델로](https://www.acmicpc.net/problem/15671)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-15671%EB%B2%88-%EC%98%A4%EB%8D%B8%EB%A1%9C)
 [가짜소수](https://www.acmicpc.net/problem/4233)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-4233%EB%B2%88-%EA%B0%80%EC%A7%9C%EC%86%8C%EC%88%98)
 [십자뒤집기](https://www.acmicpc.net/problem/10472)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-10472%EB%B2%88-%EC%8B%AD%EC%9E%90%EB%92%A4%EC%A7%91%EA%B8%B0)
+[등차수열 변환](https://www.acmicpc.net/problem/17088)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-17088%EB%B2%88-%EB%93%B1%EC%B0%A8%EC%88%98%EC%97%B4-%EB%B3%80%ED%99%98)
