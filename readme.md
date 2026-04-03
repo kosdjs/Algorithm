@@ -264,3 +264,4 @@
 [십자뒤집기](https://www.acmicpc.net/problem/10472)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-10472%EB%B2%88-%EC%8B%AD%EC%9E%90%EB%92%A4%EC%A7%91%EA%B8%B0)
 [등차수열 변환](https://www.acmicpc.net/problem/17088)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-17088%EB%B2%88-%EB%93%B1%EC%B0%A8%EC%88%98%EC%97%B4-%EB%B3%80%ED%99%98)
 [떡파이어](https://www.acmicpc.net/problem/15717)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-15717%EB%B2%88-%EB%96%A1%ED%8C%8C%EC%9D%B4%EC%96%B4)
+[최대 합 순서쌍의 개수](https://www.acmicpc.net/problem/30646)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-30646%EB%B2%88-%EC%B5%9C%EB%8C%80-%ED%95%A9-%EC%88%9C%EC%84%9C%EC%8C%8D%EC%9D%98-%EA%B0%9C%EC%88%98)
