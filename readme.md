@@ -266,3 +266,4 @@
 [떡파이어](https://www.acmicpc.net/problem/15717)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-15717%EB%B2%88-%EB%96%A1%ED%8C%8C%EC%9D%B4%EC%96%B4)
 [최대 합 순서쌍의 개수](https://www.acmicpc.net/problem/30646)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-30646%EB%B2%88-%EC%B5%9C%EB%8C%80-%ED%95%A9-%EC%88%9C%EC%84%9C%EC%8C%8D%EC%9D%98-%EA%B0%9C%EC%88%98)
 [얼음깨기 펭귄](https://www.acmicpc.net/problem/21738)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-21738%EB%B2%88-%EC%96%BC%EC%9D%8C%EA%B9%A8%EA%B8%B0-%ED%8E%AD%EA%B7%84)
+[사수빈탕](https://www.acmicpc.net/problem/14585)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-14585%EB%B2%88-%EC%82%AC%EC%88%98%EB%B9%88%ED%83%95)
