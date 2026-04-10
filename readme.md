@@ -269,3 +269,4 @@
 [사수빈탕](https://www.acmicpc.net/problem/14585)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-14585%EB%B2%88-%EC%82%AC%EC%88%98%EB%B9%88%ED%83%95)
 [별 안에 별 안에 별 찍기](https://www.acmicpc.net/problem/30678)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-30678%EB%B2%88-%EB%B3%84-%EC%95%88%EC%97%90-%EB%B3%84-%EC%95%88%EC%97%90-%EB%B3%84-%EC%B0%8D%EA%B8%B0)
 [가희와 프로세스 1](https://www.acmicpc.net/problem/21773)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-21773%EB%B2%88-%EA%B0%80%ED%9D%AC%EC%99%80-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-1)
+[지금 자면 꿈을 꾸지만](https://www.acmicpc.net/problem/32029)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-32029%EB%B2%88-%EC%A7%80%EA%B8%88-%EC%9E%90%EB%A9%B4-%EA%BF%88%EC%9D%84-%EA%BE%B8%EC%A7%80%EB%A7%8C)
