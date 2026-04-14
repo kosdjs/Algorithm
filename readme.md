@@ -271,3 +271,4 @@
 [가희와 프로세스 1](https://www.acmicpc.net/problem/21773)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-21773%EB%B2%88-%EA%B0%80%ED%9D%AC%EC%99%80-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-1)
 [지금 자면 꿈을 꾸지만](https://www.acmicpc.net/problem/32029)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-32029%EB%B2%88-%EC%A7%80%EA%B8%88-%EC%9E%90%EB%A9%B4-%EA%BF%88%EC%9D%84-%EA%BE%B8%EC%A7%80%EB%A7%8C)
 [회문은 회문아니야!!](https://www.acmicpc.net/problem/15927)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-15927%EB%B2%88-%ED%9A%8C%EB%AC%B8%EC%9D%80-%ED%9A%8C%EB%AC%B8%EC%95%84%EB%8B%88%EC%95%BC)
+[버스 노선 개편하기](https://www.acmicpc.net/problem/23740)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-23740%EB%B2%88-%EB%B2%84%EC%8A%A4-%EB%85%B8%EC%84%A0-%EA%B0%9C%ED%8E%B8%ED%95%98%EA%B8%B0)
