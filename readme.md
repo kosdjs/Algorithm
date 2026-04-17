@@ -274,3 +274,4 @@
 [버스 노선 개편하기](https://www.acmicpc.net/problem/23740)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-23740%EB%B2%88-%EB%B2%84%EC%8A%A4-%EB%85%B8%EC%84%A0-%EA%B0%9C%ED%8E%B8%ED%95%98%EA%B8%B0)
 [정보 상인 호석](https://www.acmicpc.net/problem/22252)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-22252%EB%B2%88-%EC%A0%95%EB%B3%B4-%EC%83%81%EC%9D%B8-%ED%98%B8%EC%84%9D)
 [색칠 1](https://www.acmicpc.net/problem/1117)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-1117%EB%B2%88-%EC%83%89%EC%B9%A0-1)
+[점 모으기](https://www.acmicpc.net/problem/7571)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-7571%EB%B2%88-%EC%A0%90-%EB%AA%A8%EC%9C%BC%EA%B8%B0)
