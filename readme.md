@@ -275,3 +275,4 @@
 [정보 상인 호석](https://www.acmicpc.net/problem/22252)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-22252%EB%B2%88-%EC%A0%95%EB%B3%B4-%EC%83%81%EC%9D%B8-%ED%98%B8%EC%84%9D)
 [색칠 1](https://www.acmicpc.net/problem/1117)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-1117%EB%B2%88-%EC%83%89%EC%B9%A0-1)
 [점 모으기](https://www.acmicpc.net/problem/7571)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-7571%EB%B2%88-%EC%A0%90-%EB%AA%A8%EC%9C%BC%EA%B8%B0)
+[타이핑](https://www.acmicpc.net/problem/25215)|[풀이](https://velog.io/@kosdjs/%EB%B0%B1%EC%A4%80-25215%EB%B2%88-%ED%83%80%EC%9D%B4%ED%95%91)
